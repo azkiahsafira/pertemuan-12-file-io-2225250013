@@ -1,0 +1,24 @@
+# ============================================================
+# PERTEMUAN 12 - FILE I/O DAN ERROR HANDLING
+# Git Ignore Configuration
+# ============================================================
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Konfigurasi editor lokal
+.vscode/
+
+# File sementara dan log
+*.tmp
+*.log
+
+# File sistem operasi
+.DS_Store
+Thumbs.db

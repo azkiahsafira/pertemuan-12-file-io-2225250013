@@ -1,0 +1,18 @@
+==================================================
+              CATATAN PRAKTIKUM
+==================================================
+
+Pertemuan 12
+Materi: File I/O dan Error Handling
+
+Tujuan:
+Mempelajari cara membaca, menulis, dan menambahkan
+data ke file menggunakan Python.
+
+Catatan:
+1. Gunakan with open() untuk mengelola file.
+2. Gunakan encoding="utf-8".
+3. Gunakan mode r, w, dan a sesuai kebutuhan.
+4. Tangani kesalahan dengan try-except.
+
+==================================================

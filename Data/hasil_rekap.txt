@@ -1,0 +1,13 @@
+
+==================================================
+          REKAPITULASI NILAI MAHASISWA
+==================================================
+
+Jumlah data valid : 5
+Rata-rata nilai   : 83.40
+Nilai minimum     : 74.00
+Nilai maksimum    : 92.00
+Jumlah mahasiswa lulus : 5
+Kriteria kelulusan: Nilai >= 60
+
+==================================================
